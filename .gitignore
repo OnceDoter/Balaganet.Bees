@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/
+.idea/
+.cr/
+Blaganet.Bees.sln.DotSettings.user
+*.sqlite
+*.db
